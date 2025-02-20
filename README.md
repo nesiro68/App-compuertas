@@ -18,7 +18,7 @@ Los archivos contenidos en este repositorio son:
 
 ## Funcionamiento
 
-El juego consiste en que el usuario seleccione, dado el nombre de las compuertas, su símbolo y tabla de verdad correspondientes en un tiempo limitado a determinarse.
+El juego consiste en que el usuario seleccione, dado el nombre de las compuertas, su símbolo y tabla de verdad correspondientes en un tiempo limitado de tres minutos.
 La interfase gráfica mostrará siete columnas, una por cada compuerta, y tres filas: 1. Nombre, 2. Símbolo y 3. Tabla de verdad (formando una matriz de 7X3).
 Al inicio del juego cada fila se muestra con información aleatoria y el jugador deberá acomodar la información correcta relativa al nombre de la compuerta. Es decir, los nombres de compuerta no se tocan y sirven de referencia para resolver el problema del juego que consiste en acomodar la información correcta en cada columna.
 La información en cada casilla cambia haciendo clic en ella y el jugador la acomoda seleccionando la que considera adecuada.
