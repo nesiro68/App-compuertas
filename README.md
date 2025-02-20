@@ -14,7 +14,7 @@ Los archivos contenidos en este repositorio son:
 * README - Este archivo.
 * REA_1_Planificación - Texto en formato PDF donde se describe objetivo general, objetivos de Enseñanza-Aprendizaje y otras consideraciones iniciales del Recurso Educativo Abierto.
 * compuertas.aia - Código fuente para importar desde MIT App inventor y modificarlo libremente.
-* compurtas.apk - Archivo de la aplicación para instalar en smartphone o tablet Android.
+* compuertas.apk - Archivo de la aplicación para instalar en smartphone o tablet Android.
 
 ## Funcionamiento
 
