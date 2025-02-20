@@ -26,7 +26,7 @@ Al terminar el proceso de acomodo el jugador presiona el botón EVALUAR para ter
  
 ## Acerca de
 
-Aplicación desarrollada por Nefi Sifuentes, nesiro68@.gmail.com
+Aplicación desarrollada por Nefi Sifuentes Rodríguez, nesiro68@.gmail.com
 
 Esta aplicación se pone a disposición para ser usada, modificada y distribuída libremente mediante licencia Creative Commons BY 4.0
 
