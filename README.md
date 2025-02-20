@@ -10,11 +10,11 @@ Este código se desarrolló como un Recurso Educativo Abierto (REA), para ser us
 Consistente en una aplicación Android para funcionar en dispositivos inteligentes que soporten ese sistema operativo (smartphones, tablets). Mediante la aplicación desarrollada se busca implementar un juego con efectos gráficos y de sonido que proporcione un ambiente lúdico en el que los estudiantes de EMS aprendan, refuercen y dominen los conceptos más importantes sobre compuertas lógicas digitales (nombre, símbolo y tabla de verdad). Estos componentes son sumamente importantes ya que constituyen la base de conocimiento para entender los sistemas digitales más complejos.
 
 Los archivos contenidos en este repositorio son:
-LICENCIA - Leyenda Creative Commons.
-README - Este archivo.
-REA_1_Planificación - Texto en formato PDF donde se describe objetivo general, objetivos de Enseñanza-Aprendizaje y otras consideraciones iniciales del Recurso Educativo Abierto.
-compuertas.aia - Código fuente para importar desde MIT App inventor y modificarlo libremente.
-compurtas.apk - Archivo de la aplicación para instalar en smartphone o tablet Android.
+* LICENCIA - Leyenda Creative Commons.
+* README - Este archivo.
+* REA_1_Planificación - Texto en formato PDF donde se describe objetivo general, objetivos de Enseñanza-Aprendizaje y otras consideraciones iniciales del Recurso Educativo Abierto.
+* compuertas.aia - Código fuente para importar desde MIT App inventor y modificarlo libremente.
+* compurtas.apk - Archivo de la aplicación para instalar en smartphone o tablet Android.
 
 ## Funcionamiento
 
